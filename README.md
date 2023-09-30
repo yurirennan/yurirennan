@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho com backend..
 - 🌱 Estou estudando JAVA com Spring e AWS..
-- 🏫 Estou finalizando o curso de Bacharelado em Ciências da Computação pela FAFIC...
+- 🏫 Formado em Ciências da Computação
 
 <div align="center">
   <a href="https://github.com/yurirennan">

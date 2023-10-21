@@ -1,9 +1,10 @@
 ### Olá! Eu sou Yuri Rennan 👋
 
 
-- 🔭 Atualmente trabalho com backend..
-- 🌱 Estou estudando JAVA com Spring e AWS..
-- 🏫 Formado em Ciências da Computação
+- Trabalho no backend, utilizando Java e Spring Boot como principais tecnologias
+- Bacharelado em Ciências da Computação e pós-graduado em Docência do Ensino Superior
+- Também trabalho como Professor na Faculdade Católica da Paraíba - Cajazeiras.
+- Tendo como principais disciplinas lecionadas Estruturas de dados e Sistemas Distribuídos.
 
 <div align="center">
   <a href="https://github.com/yurirennan">
